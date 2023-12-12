@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="local_database_id">app_local_database</string>
+    <string name="search">Search</string>
+    <string name="search_by_city">Search by city</string>
+    <string name="refresh">Refresh</string>
+    <string name="wind_arg">%s km/h</string>
+    <string name="humidity_arg">%s%%</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="generic_error">Something went wrong! Please check your network or try searching different city</string>
+    <string name="retry">Retry</string>
+</resources>
